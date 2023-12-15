@@ -1,7 +1,8 @@
-# Shopping-Demo-App username: 'kminchelle',password: '0lelplR'Project Name: Product List
+# Shopping-Demo-App username: 'kminchelle',password: '0lelplR'Project Name: Shopping Demo App
+
 
 Description:
-The Product List project is a comprehensive iOS application designed to showcase best practices in iOS development, integrating various key features and design patterns. This project is structured around a product listing application, emphasizing the implementation of essential components.
+The Shopping Demo App project is a comprehensive iOS application designed to showcase best practices in iOS development, integrating various key features and design patterns. This project is structured around a product listing application, emphasizing the implementation of essential components.
 
 Key Features:
 
