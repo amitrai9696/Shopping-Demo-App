@@ -18,7 +18,9 @@ Image Downloading with Kingfisher Library: The Kingfisher library is employed fo
 
 CocoaPods Integration: The project utilizes CocoaPods to manage dependencies, streamlining the integration of third-party libraries like Kingfisher.
 
-Custom UI with XIB for Enumerated UITableViewCells: To enhance modularity and reusability, custom UITableViewCells are designed using XIB files, implementing an enumerated design for a consistent and visually appealing user interface.
+Custom UI with XIB for Enumera
+ted U
+ITableViewCells: To enhance modularity and reusability, custom UITableViewCells are designed using XIB files, implementing an enumerated design for a consistent and visually appealing user interface.
 
 Completion Handlers and Closures: The application leverages completion handlers and closures to manage asynchronous operations, ensuring responsiveness and efficient handling of data.
 
@@ -32,14 +34,13 @@ Technology Stack:
 
 Swift
 iOS SDK
-URLSession
+URLSession!
+
 MVC Design Pattern
 Codable and Decodable Protocols
 Kingfisher Library
 CocoaPods
 
-
-
-![Screenshot 2023-12-10 at 12 41 23 AM](https://github.com/amitrai9696/Product-List/assets/149014140/1d942086-5149-4e98-9c7f-2483441f33a3)
-![Screenshot 2023-12-10 at 12 45 01 AM](https://github.com/amitrai9696/Product-List/assets/149014140/cc8114b8-485c-4d15-9e54-bd1dcde7a337)
-![Screenshot 2023-12-10 at 12 45 46 AM](https://github.com/amitrai9696/Product-List/assets/149014140/54e6e539-8f7e-48f8-85f6-50f303d4875b)
+![Screenshot 2023-12-10 at 12 41 23 AM](https://github.com/amitrai9696/Shopping-Demo-App/assets/149014140/84e6ca26-0d93-40ce-9baa-98e974c24bf4)
+![Screenshot 2023-12-10 at 12 45 46 AM](https://github.com/amitrai9696/Shopping-Demo-App/assets/149014140/28e12f1a-408d-423b-b453-682eed0dd474)
+![Screenshot 2023-12-10 at 12 45 01 AM](https://github.com/amitrai9696/Shopping-Demo-App/assets/149014140/da4e2c4b-2105-46c6-a736-2a9722d4b3b7)
