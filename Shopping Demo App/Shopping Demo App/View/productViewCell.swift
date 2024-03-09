@@ -14,7 +14,7 @@ class productViewCell: UITableViewCell {
     @IBOutlet weak var productimage: UIImageView!
     @IBOutlet weak var producttitlelabel: UILabel!
     @IBOutlet weak var productCategorylabel: UILabel!
-    @IBOutlet weak var buyButton: UIButton!
+    
     @IBOutlet weak var ratingbutton: UIButton!
     @IBOutlet weak var discription: UILabel!
     @IBOutlet weak var price: UILabel!
@@ -29,7 +29,7 @@ class productViewCell: UITableViewCell {
         probuctbackgroundview.layer.cornerRadius = 15
         productimage.layer.cornerRadius = 10
         self.probuctbackgroundview.backgroundColor = .systemGray6
-        buyButton.layer.cornerRadius = 15
+        
     }
 
     override func setSelected(_ selected: Bool, animated: Bool) {
